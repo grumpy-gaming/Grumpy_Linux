@@ -1,4 +1,4 @@
-<img src="Assets/GrumpyLinux.jpg" alt="Grumpy Linux" width="480" align="center">
+<img src="Assets/GrumpyLinux.jpeg" alt="Grumpy Linux" width="480" align="center">
 
 # Grumpy Linux 🦉
 
