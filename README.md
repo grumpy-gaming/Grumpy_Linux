@@ -1,3 +1,5 @@
+<img src="Assets/GrumpyLinux.jpg" alt="Grumpy Linux" width="480" align="center">
+
 # Grumpy Linux 🦉
 
 **(Because sometimes, you just want to build it yourself and glare at the world from your perfectly optimized terminal.)**
